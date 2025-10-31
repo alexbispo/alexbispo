@@ -12,6 +12,5 @@ I am a Software Engineer passionate about designing and building innovative tech
 * 🎓 Graduated in **Systems Analysis and Development**
 * 🤖 Postgraduate certificate in **Machine Learning**
 * 📊 MBA in **Data Science and Analytics**
-* 💼 Currently working as a **Solutions Architect**
 
 🔗 Feel free to connect with me or check out my projects!
